@@ -1,0 +1,8 @@
+tests/
+*.iso
+*.o
+notatki.txt
+.idea/
+build-cross/
+iso/
+cmake-build-*/
